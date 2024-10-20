@@ -1,0 +1,6 @@
+@FeedbackSystem_HostAddress = http://localhost:5145
+
+GET {{FeedbackSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
